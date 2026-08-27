@@ -1,0 +1,1 @@
+"blogsite using django" 
